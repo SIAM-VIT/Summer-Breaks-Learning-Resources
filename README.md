@@ -26,10 +26,10 @@ There are various online courses as well as written documentations which your ca
 
 ### Cheatsheets
 #### HTML
-![]()
+![](https://raw.githubusercontent.com/SIAM-VIT/Summer-Breaks-Learning-Resources/master/HTML_CS.png)
 
 #### CSS
-![]()
+![](https://raw.githubusercontent.com/SIAM-VIT/Summer-Breaks-Learning-Resources/master/CSS_CS.png)
 
 ## Mobile App Development
 ### Online courses
