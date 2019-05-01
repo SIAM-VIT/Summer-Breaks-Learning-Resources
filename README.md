@@ -29,7 +29,7 @@ There are various online courses as well as written documentations which your ca
 ![](https://raw.githubusercontent.com/SIAM-VIT/Summer-Breaks-Learning-Resources/master/HTML_CS.png)
 
 #### CSS
-![](https://raw.githubusercontent.com/SIAM-VIT/Summer-Breaks-Learning-Resources/master/CSS_CS.png)
+![](https://raw.githubusercontent.com/SIAM-VIT/Summer-Breaks-Learning-Resources/master/CSS_CS.jpg)
 
 ## Mobile App Development
 ### Online courses
