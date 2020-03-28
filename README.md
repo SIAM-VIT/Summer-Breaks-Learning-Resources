@@ -43,3 +43,9 @@ There are various online courses as well as written documentations which your ca
 - [C++ - HackerRank](https://www.hackerrank.com/domains/cpp)
 - [Python - HackerRank](https://www.hackerrank.com/domains/python)
 - [Java - HackerRank](https://www.hackerrank.com/domains/java)
+
+## Learn Competative Coding For Placements
+- [Abdul Bhari](https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw)
+- Any one Language from Geeks For Geeks
+- Leet Code Questions
+- Hackerrank/CodeChef/Hackerearth
